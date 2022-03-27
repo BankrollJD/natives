@@ -15,3 +15,5 @@ Request a model to be loaded into memory.
 ## Parameters
 * **model**: 
 
+Tesla
+Etruck 
